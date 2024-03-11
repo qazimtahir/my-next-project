@@ -20,6 +20,7 @@ Next JS
 ![App Screenshot](https://github.com/qazimtahir/my-next-project/blob/main/images/Screenshot%20from%202024-03-11%2013-11-19.png)
 ![App Screenshot](https://github.com/qazimtahir/my-next-project/blob/main/images/Screenshot%20from%202024-03-11%2013-13-39.png)
 ![App Screenshot](https://github.com/qazimtahir/my-next-project/blob/main/images/Screenshot%20from%202024-03-11%2013-14-03.png)
+![App Screenshot](https://github.com/qazimtahir/my-next-project/blob/main/images/First%20NextJS%20Page.png)
 
 ## 🚀 About Me
 
