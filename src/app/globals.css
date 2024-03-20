@@ -31,3 +31,19 @@ body {
     text-wrap: balance;
   }
 }
+h1 {
+  font-size: 48px;
+  color: aqua;
+  text-align: center;
+}
+h2 {
+  font-size: 36px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+h3 {
+  font-size: 28px;
+  color: rgb(4, 243, 243);
+  text-align: center;
+}
+
